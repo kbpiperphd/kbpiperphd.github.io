@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download a PDF version [here](/files/Piper_CV.pdf).
+# Download a PDF version [here](/files/Piper_CV.pdf).
 
 ## Education
 
