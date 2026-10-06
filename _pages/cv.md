@@ -3,13 +3,14 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-url: 'http://kbpiperphd.github.io/files/K_Piper_CV-6.pdf'
+
 redirect_from:
   - /resume
 ---
 
 {% include base_path %}
 
+[Full CV PDF] ('http://kbpiperphd.github.io/files/K_Piper_CV-6.pdf)
 ## Education
 
 - Ph.D in Computational Mechanics, Carnegie Mellon University, Est. April 2029
